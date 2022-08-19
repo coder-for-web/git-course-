@@ -1,2 +1,2 @@
-# git-course-
+# git-course
 Elzero-Courses
